@@ -13,7 +13,7 @@
     "@emailjs/browser": "^3.12.1",
     "i18next": "^23.16.8",
     "@react-three/drei": "^9.114.0",
-    "@react-three/fiber": "^8.17.10",
+    "@react-three/fiber": "^8.17.12",
     "@vercel/analytics": "^1.4.1",
     "framer-motion": "^10.18.0",
     "i18next-browser-languagedetector": "^7.2.2",
